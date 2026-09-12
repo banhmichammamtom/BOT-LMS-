@@ -1,0 +1,10 @@
+{
+  "name": "bot-lms",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "bot-lms.js",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "puppeteer": "^22.10.0"
+  }
+}
